@@ -22,7 +22,7 @@
 #define RTE_CMSIS_RTOS2                 /* CMSIS-RTOS2 */
 #define RTE_CMSIS_RTOS2_RTX5            /* CMSIS-RTOS2 Keil RTX5 */
 #define RTE_CMSIS_RTOS2_RTX5_SOURCE     /* CMSIS-RTOS2 Keil RTX5 Source */
-/* Keil::CMSIS Driver:GPIO@1.1.0 */
+/* Keil::CMSIS Driver:GPIO@1.2.0 */
 #define RTE_Drivers_GPIO0               /* Driver GPIO0 */
 /* Keil::CMSIS Driver:USART@3.0.0 */
 #define RTE_CMSIS_Driver_USART1         /* Driver USART1  */
